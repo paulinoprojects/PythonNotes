@@ -23,3 +23,16 @@
 - <b>Abstraction</b>
     - Abstraction is the process of reducing objects to their essence so that only the necessary elements are represented. 
     - In other words, you remove all irrelevant information about an object in order to reduce its complexity.
+
+# Classes & Objects
+- Define a class using keyword: class
+![Class](https://user-images.githubusercontent.com/111991325/214202702-b1c95b5c-130f-4dbb-b713-d2f05016833d.jpg)
+
+- All classes have a function called <b> init() </b>, which is automatically executed when the class is initiated. 
+- init() function is used to initialize attributes
+<br>
+def   init   (self, name, dob, email):
+     self.name = name
+     self.dob = dob
+     self.email = email
+</br>
