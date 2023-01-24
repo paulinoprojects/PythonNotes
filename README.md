@@ -41,8 +41,8 @@
 -  To import the modules into your code, use the import keyword
 -  Each module has its own provate namespace which usually has the same name as the module, The namespace holds all the names of functions and variables declared in the module.
 -  We must use dot(.) notation to refer to a particular module:
-        - moduleName.functionName()
-        - turtle.forward(100)
-                - turtle is the name of the module we imported earlier, and forward() is a function defined within the module.
+            - moduleName.functionName()
+            - turtle.forward(100)
+               - turtle is the name of the module we imported earlier, and forward() is a function defined within the module.
 
 
