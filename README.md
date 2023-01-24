@@ -30,5 +30,9 @@
 - <b>Bitwise Operators:</b> Used to compare binary numbers.
 ![533819_1_en_3_figm_html](https://user-images.githubusercontent.com/111991325/213351538-04682b0c-492c-4567-9df3-9399b4a53f3e.jpg)
 
-
+## Modules
+- Modules are python files that are part of a program. 
+- Its best practice to split code into several files for easier maintenance and reusability. 
+- These modules, contain code that can be imported into another program. 
+- We can build a code library that contains a set of functions that you want to include when developing large applications.
 
