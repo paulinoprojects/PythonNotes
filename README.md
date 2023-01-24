@@ -30,9 +30,19 @@
 - <b>Bitwise Operators:</b> Used to compare binary numbers.
 ![533819_1_en_3_figm_html](https://user-images.githubusercontent.com/111991325/213351538-04682b0c-492c-4567-9df3-9399b4a53f3e.jpg)
 
-## Modules
+### Modules
 - Modules are python files that are part of a program. 
 - Its best practice to split code into several files for easier maintenance and reusability. 
 - These modules, contain code that can be imported into another program. 
 - We can build a code library that contains a set of functions that you want to include when developing large applications.
+
+### Importing Modules
+- Python has built-in library of module you can import into your program. 
+-  To import the modules into your code, use the import keyword
+-  Each module has its own provate namespace which usually has the same name as the module, The namespace holds all the names of functions and variables declared in the module.
+-  We must use dot(.) notation to refer to a particular module:
+        - moduleName.functionName()
+        - turtle.forward(100)
+                - turtle is the name of the module we imported earlier, and forward() is a function defined within the module.
+
 
