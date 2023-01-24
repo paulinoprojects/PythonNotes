@@ -30,9 +30,7 @@
 
 - All classes have a function called <b> init() </b>, which is automatically executed when the class is initiated. 
 - init() function is used to initialize attributes
-<br>
-def   init   (self, name, dob, email):
-     self.name = name
-     self.dob = dob
-     self.email = email
-</br>
+![Self](https://user-images.githubusercontent.com/111991325/214204156-7ee0c973-b3fd-4e72-8e3e-9d9332c27de7.jpg)
+- By using the keyword <b>self</b>represents the current instance of the class (i.e., the object created from the class). By using the self keyword, you can access the attributes of the object itself.
+- When you declare a method, you pass the current instance of the class (i.e., the object itself), along with any other parameters required, to the method:
+![Method](https://user-images.githubusercontent.com/111991325/214204379-a5c5039a-a0d7-4d54-9804-4a1431e88837.jpg)
