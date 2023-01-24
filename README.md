@@ -22,6 +22,7 @@
         - float( ) converts data to a floating point number
         - str( ) converts data to a string
 - <b> Arithmetic Operators</b>
+
 ![533819_1_en_3_figj_html](https://user-images.githubusercontent.com/111991325/213351199-fd730855-2990-4dc0-93d1-392b4fa9fbba.jpg)
 - <b>Comparison Operators: </b> Commonly used in conditional statements or constructing loops.
 ![533819_1_en_3_figk_html](https://user-images.githubusercontent.com/111991325/213351289-818cba80-8ec5-4869-bbd9-1b9873b109fc.jpg)
