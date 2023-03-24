@@ -25,3 +25,12 @@ Flow control statements can decide which Python instructions to execute under sp
 ![Boolean OR](https://user-images.githubusercontent.com/111991325/227415533-b84506d5-4317-4abf-b1ce-6577e83d6627.png)
 - The <b>NOT</b> operator operates <i>only<i/> one Boolean value (or expression).The not operator simply evaluates to the opposite Boolean value.
 ![Boolean NOT](https://user-images.githubusercontent.com/111991325/227415811-04311aa3-3ca9-4356-a776-f7cb7d3ec591.png)
+
+# Elements of Flow Control
+1. Conditions
+2. Blocks of Code
+
+##### Conditions
+- Flow control statements often start with a part called the condition and are always followed by a block of code called the clause.
+- Conditions is a specific name in the context of flow control statements. Conditions always evaluate down to a Boolean value, True or False.
+- A flow control statement decides what to do based on whether its condition is True or False, and almost every flow control statement uses a condition.
