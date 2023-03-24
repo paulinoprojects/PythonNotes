@@ -19,6 +19,7 @@ Flow control statements can decide which Python instructions to execute under sp
 ### Boolean Operators
 - Three Boolean operators: <b> AND, OR, NOT </b> 
 - Like comparison operators, they evaluate these expressions down to a Boolean value
-- The <b>AND</b> operator evaluates an expression to True <u>if both</u> Boolean values are True; otherwise, it evaluates to False. 
+- The <b>AND</b> operator evaluates an expression to True <i>if both</i> Boolean values are True; otherwise, it evaluates to False. 
 ![Boolean AND](https://user-images.githubusercontent.com/111991325/227414639-0fd135a5-afc1-4fa2-98f4-0c06d577bb64.png)
-- The <b>OR</b> operator evaluates an expression to True <u>if either</u> of the two Boolean values is True. If both are False, it evaluates to False.
+- The <b>OR</b> operator evaluates an expression to True <i>if either</i> of the two Boolean values is True. If both are False, it evaluates to False.
+![Boolean OR](https://user-images.githubusercontent.com/111991325/227415533-b84506d5-4317-4abf-b1ce-6577e83d6627.png)
