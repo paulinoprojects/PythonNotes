@@ -27,17 +27,24 @@ Flow control statements can decide which Python instructions to execute under sp
 ![Boolean NOT](https://user-images.githubusercontent.com/111991325/227415811-04311aa3-3ca9-4356-a776-f7cb7d3ec591.png)
 
 # Elements of Flow Control
+  - Flow control statements often start with a part called the condition and are always followed by a block of code called the clause.
 1. Conditions
-    - Flow control statements often start with a part called the condition and are always followed by a block of code called the clause.
     - Conditions is a specific name in the context of flow control statements. Conditions always evaluate down to a Boolean value, True or False.
     - A flow control statement decides what to do based on whether its condition is True or False, and almost every flow control statement uses a condition.
-2. Blocks of Code
+2. Blocks of Code (The Clause)
     - Lines of Python code can be grouped together in blocks. 
     - You can tell when a block begins and ends from the indentation of the lines of code. There are three rules for blocks.
       - Blocks begin when the indentation increases.
       - Blocks can contain other blocks.
       - Blocks end when the indentation decreases to zero or to a containing block’s indentation.
-
-
+3. The program execution (or simply, execution) 
+    - a term for the current instruction being executed. 
+    - If you print the source code on paper and put your finger on each line as it is executed, you can think of your finger as the program execution.
+4. Flow Control Statements
+    - The most important piece of flow control is the statement hemselves.
+    - They are the actual decisions your program will make.
+    - Most common type of flow control statement is the <b>if statement</b>
+  
+ # If Statements
   
  
