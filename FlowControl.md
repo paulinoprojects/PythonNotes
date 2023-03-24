@@ -4,19 +4,19 @@ Programing is just a series of instructions, but programming’s real strength i
 
 Flow control statements can decide which Python instructions to execute under specific conditions. Before learning about flow control statements, first we need to learn how to represent yes (True) and no (False) options, and we need to understand how to write those branching points as Python code by understanding: <b>Boolean values, comparison operators, and Boolean operators</b>.
 
-### Boolean Values
+## Boolean Values
 - Only 2 Values: True or False 
 - Rules: 
   - Lack the quotes you place around strings
   - They always start with a capital T or F
   - Boolean values are used in expressions and can be stored in variables
   - True or False cannot be variable names
-### Comparison Operators (Relational Operators)
+## Comparison Operators (Relational Operators)
 - Compare two values and evaluate down to a single Boolean value, then your code continues based on the specific conditions. 
 - https://www.youtube.com/watch?v=Vw2HxT5Wj-I
 ![Compaison Operators](https://user-images.githubusercontent.com/111991325/227411939-9dcbaa20-2239-41eb-bd2e-c3e39737c4d3.jpg)
 
-### Boolean Operators
+## Boolean Operators
 - Three Boolean operators: <b> AND, OR, NOT </b> 
 - Like comparison operators, they evaluate these expressions down to a Boolean value
 - The <b>AND</b> operator evaluates an expression to True <i>if both</i> Boolean values are True; otherwise, it evaluates to False. 
