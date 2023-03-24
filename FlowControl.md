@@ -23,3 +23,5 @@ Flow control statements can decide which Python instructions to execute under sp
 ![Boolean AND](https://user-images.githubusercontent.com/111991325/227414639-0fd135a5-afc1-4fa2-98f4-0c06d577bb64.png)
 - The <b>OR</b> operator evaluates an expression to True <i>if either</i> of the two Boolean values is True. If both are False, it evaluates to False.
 ![Boolean OR](https://user-images.githubusercontent.com/111991325/227415533-b84506d5-4317-4abf-b1ce-6577e83d6627.png)
+- The <b>NOT</b> operator operates <i>only<i/> one Boolean value (or expression).The not operator simply evaluates to the opposite Boolean value.
+![Boolean NOT](https://user-images.githubusercontent.com/111991325/227415811-04311aa3-3ca9-4356-a776-f7cb7d3ec591.png)
