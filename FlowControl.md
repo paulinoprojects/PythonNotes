@@ -30,7 +30,7 @@ Flow control statements can decide which Python instructions to execute under sp
 1. Conditions
 2. Blocks of Code
 
-##### Conditions
+Conditions
 - Flow control statements often start with a part called the condition and are always followed by a block of code called the clause.
 - Conditions is a specific name in the context of flow control statements. Conditions always evaluate down to a Boolean value, True or False.
 - A flow control statement decides what to do based on whether its condition is True or False, and almost every flow control statement uses a condition.
