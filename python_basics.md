@@ -21,15 +21,6 @@
         - long( ) converts data to a long integer
         - float( ) converts data to a floating point number
         - str( ) converts data to a string
-- <b> Arithmetic Operators</b>
-
-![533819_1_en_3_figj_html](https://user-images.githubusercontent.com/111991325/213351199-fd730855-2990-4dc0-93d1-392b4fa9fbba.jpg)
-- <b>Comparison Operators: </b> Commonly used in conditional statements or constructing loops.
-![533819_1_en_3_figk_html](https://user-images.githubusercontent.com/111991325/213351289-818cba80-8ec5-4869-bbd9-1b9873b109fc.jpg)
-- <b> Boolean Operators:</b> Commonly used in condition statements (if...) or constructing loops (while... for...).
-![533819_1_en_3_figl_html](https://user-images.githubusercontent.com/111991325/213351332-34178d8b-0d2c-4cfc-9938-acb0f47547f4.jpg)
-- <b>Bitwise Operators:</b> Used to compare binary numbers.
-![533819_1_en_3_figm_html](https://user-images.githubusercontent.com/111991325/213351538-04682b0c-492c-4567-9df3-9399b4a53f3e.jpg)
 
 ### Modules
 - Modules are python files that are part of a program. 
