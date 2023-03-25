@@ -4,6 +4,9 @@ Programing is just a series of instructions, but programming’s real strength i
 
 Flow control statements can decide which Python instructions to execute under specific conditions. Before learning about flow control statements, first we need to learn how to represent yes (True) and no (False) options, and we need to understand how to write those branching points as Python code by understanding: <b>Boolean values, comparison operators, and Boolean operators</b>.
 
+#### Topics in This Repo
+
+
 ## Boolean Values
 - Only 2 Values: True or False 
 - Rules: 
